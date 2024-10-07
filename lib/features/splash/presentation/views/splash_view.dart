@@ -30,7 +30,7 @@ class _SplashViewState extends State<SplashView> with TickerProviderStateMixin {
 
   void navigateToHome() {
     Future.delayed(
-      const Duration(seconds: 5),
+      const Duration(seconds: 6),
       () {
         GoRouter.of(context).push(AppRouter.onboardingView);
       },

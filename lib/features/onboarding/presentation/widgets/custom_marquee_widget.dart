@@ -17,7 +17,7 @@ class CustomMarqueeWidget extends StatelessWidget {
     Assets.imagesIt,
     Assets.imagesMe4,
     Assets.imagesMrRobot,
-    Assets.imagesTrap,
+    Assets.imagesTrap
   ];
   @override
   Widget build(BuildContext context) {

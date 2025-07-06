@@ -47,7 +47,7 @@ Filmrise is a **Flutter-based movie application** built with a strong focus on:
 
 ## 📱 Screenshots
 
-![App Screenshot](https://github.com/user-attachments/assets/7646c638-0ebe-4c0d-8039-1b57a4967e23)
+![App Screenshot](https://github.com/user-attachments/assets/e2e870d8-eebe-4a98-8496-6f9e9d8c1efd)
 
 
 ---
